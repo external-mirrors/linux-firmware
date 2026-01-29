@@ -6921,6 +6921,12 @@ File: qcom/kaanapali/soccp.mbn
 File: qcom/kaanapali/soccp_dtb.mbn
 Version: SOCCP.FW.2.1-00204-KAANAPALI_SOCCP_PACK-1
 RawFile: qcom/kaanapali/soccpr.jsn
+File: qcom/glymur/adsp.mbn
+File: qcom/glymur/adsp_dtb.mbn
+Version: LPAIDSP.HT.1.6.c1-00007-GLYMUR-3
+RawFile: qcom/glymur/adspr.jsn
+RawFile: qcom/glymur/adsps.jsn
+RawFile: qcom/glymur/adspua.jsn
 File: qcom/qcs8300/adsp.mbn
 Version: DSP.AT.1.0.1-00170-LEMANS-1
 RawFile: qcom/qcs8300/adspr.jsn
