@@ -10103,6 +10103,12 @@ File: cirrus/cs35l57-b2-dsp1-misc-17aa3821-spkid0-ampr.bin
 Link: cirrus/cs35l57-b2-dsp1-misc-17aa3821-spkid1.wmfw -> cs35l56/CS35L56_Rev4.5.3.wmfw
 File: cirrus/cs35l57-b2-dsp1-misc-17aa3821-spkid1-ampl.bin
 File: cirrus/cs35l57-b2-dsp1-misc-17aa3821-spkid1-ampr.bin
+Link: cirrus/cs35l57-b2-dsp1-misc-17aa3824-spkid0.wmfw -> cs35l56/CS35L56_Rev4.7.9.wmfw
+File: cirrus/cs35l57-b2-dsp1-misc-17aa3824-spkid0-l0u0.bin
+File: cirrus/cs35l57-b2-dsp1-misc-17aa3824-spkid0-l0u1.bin
+Link: cirrus/cs35l57-b2-dsp1-misc-17aa3824-spkid1.wmfw -> cs35l56/CS35L56_Rev4.7.9.wmfw
+File: cirrus/cs35l57-b2-dsp1-misc-17aa3824-spkid1-l0u0.bin
+File: cirrus/cs35l57-b2-dsp1-misc-17aa3824-spkid1-l0u1.bin
 Link: cirrus/cs35l56-b0-dsp1-misc-17aa3832-spkid0.wmfw -> cs35l56/CS35L56_Rev3.11.26.wmfw
 File: cirrus/cs35l56-b0-dsp1-misc-17aa3832-spkid0-ampl.bin
 File: cirrus/cs35l56-b0-dsp1-misc-17aa3832-spkid0-ampr.bin
