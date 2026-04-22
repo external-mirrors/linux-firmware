@@ -4981,7 +4981,9 @@ Driver: qca - Qualcomm Atheros Bluetooth support for WCN399x chips
 
 File: qca/crbtfw21.tlv
 Version: BTFM.CHE.2.1.3.c7-00024-QCACHROM-1
+Link: qca/crbtfw01.tlv -> crbtfw21.tlv
 File: qca/crnv21.bin
+Link: qca/crnv01.bin -> crnv21.bin
 File: qca/crbtfw32.tlv
 Version: BTFM.CHE.3.2.0.c2-00044-QCACHROMZ-1
 File: qca/crnv32.bin
