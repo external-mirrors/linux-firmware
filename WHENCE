@@ -7302,6 +7302,14 @@ License: Redistributable. See LICENSE.Lontium for details.
 
 --------------------------------------------------------------------------
 
+Driver: lt9611c - Lontium DSI to HDMI bridge
+
+File: lt9611c_fw.bin
+
+License: Redistributable. See LICENSE.Lontium for details.
+
+--------------------------------------------------------------------------
+
 Driver: lt9611uxc - Lontium DSI to HDMI bridge
 
 File: lt9611uxc_fw.bin
