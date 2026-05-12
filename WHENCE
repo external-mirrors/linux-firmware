@@ -7040,6 +7040,7 @@ RawFile: qcom/sa8775p/adspr.jsn
 RawFile: qcom/sa8775p/adspua.jsn
 File: qcom/sa8775p/cdsp0.mbn
 Version: DSP.AT.1.0.1-00196-LEMANS-2
+RawFile: qcom/sa8775p/cdsp1r.jsn
 File: qcom/sa8775p/cdsp1.mbn
 Version: DSP.AT.1.0.1-00196-LEMANS-2
 RawFile: qcom/sa8775p/cdspr.jsn
