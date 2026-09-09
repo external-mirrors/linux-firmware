@@ -3818,6 +3818,10 @@ File: ath10k/WCN3990/hw1.0/wlanmdsp.mbn
 Link: qcom/sdm845/wlanmdsp.mbn -> ../../ath10k/WCN3990/hw1.0/wlanmdsp.mbn
 Version: WLAN.HL.2.0-01387-QCAHLSWMTPLZ-1
 File: ath10k/WCN3990/hw1.0/notice.txt_wlanmdsp
+File: ath10k/WCN3990/hw1.0/shikra/firmware-5.bin
+File: ath10k/WCN3990/hw1.0/shikra/wlanmdsp.mbn
+Version: WLAN.HL.3.3.7.c5-00093.2-QCAHLSWMTPL-1
+File: ath10k/WCN3990/hw1.0/shikra/notice.txt_wlanmdsp
 
 Licence: Redistributable. See LICENSE.QualcommAtheros_ath10k for details
 
