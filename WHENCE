@@ -2247,6 +2247,23 @@ SPDX-License-Identifier: LicenseRef-LICENSE.airoha
 
 --------------------------------------------------------------------------
 
+Driver: aw88399 - awinic SmartK AMP driver.
+
+File: awinic/aw88399_acf_17aa3906.bin
+File: awinic/aw88399_acf_17aa3907.bin
+File: awinic/aw88399_acf_17aa3927.bin
+File: awinic/aw88399_acf_17aa3928.bin
+File: awinic/aw88399_acf_17aa3936.bin
+File: awinic/aw88399_acf_17aa3937.bin
+File: awinic/aw88399_acf_17aa3938.bin
+File: awinic/aw88399_acf_17aa3939.bin
+
+Version: 1.0
+
+License: Redistributable. See LICENSE.awinic for details.
+
+--------------------------------------------------------------------------
+
 Driver: amdgpu - AMD Radeon
 
 File: amdgpu/tahiti_ce.bin
