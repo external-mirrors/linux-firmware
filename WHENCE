@@ -7367,7 +7367,7 @@ File: qcom/nord/adsp.mbn
 File: qcom/nord/adsp1.mbn
 File: qcom/nord/adsp_dtb.mbn
 File: qcom/nord/adsp1_dtb.mbn
-Version: HPASS.AT.1.0.1-00003-NORD-1
+Version: HPASS.AT.1.0.1-00003-NORD-6
 RawFile: qcom/nord/adspr.jsn
 RawFile: qcom/nord/adspua.jsn
 RawFile: qcom/nord/adsp1r.jsn
