@@ -6399,6 +6399,16 @@ SPDX-License-Identifier: LicenseRef-LICENCE.rockchip
 
 --------------------------------------------------------------------------
 
+Driver: phy-rockchip-snps-pcie3 - ROCKCHIP PCIe3 PHY firmware
+
+File: rockchip/pcie3-t22-c8g2-1.6.3-202a-p7.fw
+Version: 1.6.3
+
+Licence: Redistributable. See LICENCE.rockchip for details.
+SPDX-License-Identifier: LicenseRef-LICENCE.rockchip
+
+--------------------------------------------------------------------------
+
 Driver: mt76x0 - MediaTek MT76x0 Wireless MACs
 
 File: mediatek/mt7610u.bin
