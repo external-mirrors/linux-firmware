@@ -5069,7 +5069,7 @@ File: qca/nvm_usb_00130201_gf_010b.bin
 File: qca/nvm_usb_00130201_gf_0303.bin
 
 File: qca/QCA2066/rampatch_usb_00130201.bin
-Version: BTFW.HSP.2.1.0-00680-VER_PATCHZ-1
+Version: BTFW.HSP.2.1.0-00680-VER_PATCHZ-2
 File: qca/QCA2066/nvm_usb_00130201_030a.bin
 File: qca/QCA2066/nvm_usb_00130201_gf_030a.bin
 
@@ -5247,7 +5247,7 @@ SPDX-License-Identifier: LicenseRef-LICENSE.QualcommAtheros_ath10k
 Driver: qca - Qualcomm Atheros Bluetooth support for QCA2066 chips
 
 File: qca/hpbtfw21.tlv
-Version: BTFW.HSP.2.1.0-00653-VER_PATCHZ-3
+Version: BTFW.HSP.2.1.0-00680-VER_PATCHZ-1
 File: qca/hpnv21.bin
 File: qca/hpnv21g.bin
 File: qca/hpnv21.301
