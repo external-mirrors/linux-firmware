@@ -1435,7 +1435,7 @@ SPDX-License-Identifier: LicenseRef-LICENSE.ipu3_firmware
 
 --------------------------------------------------------------------------
 
-Driver: intel-ipu6-isys - Intel IPU6 (Image Processing Unit 6) driver
+Driver: intel-ipu6 - Intel IPU6 (Image Processing Unit 6) driver
 
 File: intel/ipu/ipu6epadln_fw.bin
 File: intel/ipu/ipu6ep_fw.bin
@@ -1448,10 +1448,6 @@ Version: scci_master_20210502_1459
 
 Licence: Redistributable. See LICENSE.ivsc for details
 SPDX-License-Identifier: LicenseRef-LICENSE.ivsc
-
---------------------------------------------------------------------------
-
-Driver: intel-ipu7-isys - Intel IPU7 (Image Processing Unit 7) driver
 
 File: intel/ipu/ipu7_fw.bin
 Version: master_release_20240628_1854
