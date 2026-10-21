@@ -3973,7 +3973,7 @@ File: ath10k/WCN3990/hw1.0/notice.txt_wlanmdsp
 File: ath10k/WCN3990/hw1.0/shikra/firmware-5.bin
 File: ath10k/WCN3990/hw1.0/shikra/wlanmdsp.mbn
 Link: qcom/shikra/wlanmdsp.mbn -> ../../ath10k/WCN3990/hw1.0/shikra/wlanmdsp.mbn
-Version: WLAN.HL.3.3.7.c5-00093.2-QCAHLSWMTPL-1
+Version: WLAN.HL.3.3.7.c5-00226-QCAHLSWMTPL-1
 File: ath10k/WCN3990/hw1.0/shikra/notice.txt_wlanmdsp
 
 Licence: Redistributable. See LICENSE.QualcommAtheros_ath10k for details
