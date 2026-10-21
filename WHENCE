@@ -1455,6 +1455,9 @@ Version: master_release_20240628_1854
 File: intel/ipu/ipu7ptl_fw.bin
 Version: 1.2.1.20251215_224531
 
+File: intel/ipu/ipu8_fw.bin
+Version: 1.0.15.20260909_223533
+
 Licence: Redistributable. See LICENSE.intel for details
 SPDX-License-Identifier: LicenseRef-LICENSE.intel
 
