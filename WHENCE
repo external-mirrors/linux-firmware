@@ -7347,7 +7347,7 @@ Version: video-firmware.1.1-b158087140355883dc40b004032856a8feb5d565
 File: qcom/sc8280xp/radxa/dragon-q8b/qcadsp8280.mbn
 Version: ADSP.HT.5.6.c2-00037-MAKENA-1
 
-# Lenovo T14s
+# Lenovo T14s G6
 File: qcom/x1e80100/LENOVO/21N1/qcvss8380.mbn
 Version: VIDEO.VPU.3.1-0085
 RawFile: qcom/x1e80100/LENOVO/21N1/adspua.jsn
@@ -7362,7 +7362,7 @@ RawFile: qcom/x1e80100/LENOVO/21N1/adspr.jsn
 File: qcom/x1e80100/LENOVO/21N1/cdsp_dtbs.elf
 RawFile: qcom/x1e80100/LENOVO/21N1/adsps.jsn
 File: qcom/x1e80100/LENOVO/21N1/qccdsp8380.mbn
-Version: CDSP.HT.2.9-00447-HAMOA-2
+Version: CDSP.HT.2.9.c1-00078-HAMOA-1
 RawFile: qcom/x1e80100/LENOVO/21N1/cdspr.jsn
 RawFile: qcom/x1e80100/LENOVO/21N1/battmgr.jsn
 
