@@ -1402,6 +1402,10 @@ File: intel/iwlwifi/iwlwifi-bz-b0-wh-b0-c108.ucode
 Link: iwlwifi-bz-b0-wh-b0-c108.ucode -> intel/iwlwifi/iwlwifi-bz-b0-wh-b0-c108.ucode
 Version: 108.45105872.0
 
+File: intel/iwlwifi/iwlwifi-sc2-a0-wh-b0-c108.ucode
+Link: iwlwifi-sc2-a0-wh-b0-c108.ucode -> intel/iwlwifi/iwlwifi-sc2-a0-wh-b0-c108.ucode
+Version: 108.45105872.0
+
 Licence: Redistributable. See LICENCE.iwlwifi_firmware for details
 SPDX-License-Identifier: LicenseRef-LICENCE.iwlwifi_firmware
 
