@@ -1352,7 +1352,7 @@ Version: 101.6e695a70.0
 
 File: intel/iwlwifi/iwlwifi-sc-a0-wh-b0-c102.ucode
 Link: iwlwifi-sc-a0-wh-b0-c102.ucode -> intel/iwlwifi/iwlwifi-sc-a0-wh-b0-c102.ucode
-Version: 102.07fca168.0
+Version: 102.651bbed6.0
 
 File: intel/iwlwifi/iwlwifi-sc-a0-gf-a0-100.ucode
 Link: iwlwifi-sc-a0-gf-a0-100.ucode -> intel/iwlwifi/iwlwifi-sc-a0-gf-a0-100.ucode
