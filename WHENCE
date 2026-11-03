@@ -4452,7 +4452,7 @@ Version: BT_ScorpiusGfp_S_REL384_24.00.26304.384
 File: intel/ibt-02a2-01a1-iml.sfi
 File: intel/ibt-02a2-01a1.sfi
 File: intel/ibt-02a2-01a1.ddc
-Version: BT_Scorpius2_S_REL89063_24.70.26413.89063
+Version: BT_Scorpius2_S_REL86587_24.80.26384.86587
 
 Licence: Redistributable. See LICENCE.ibt_firmware for details
 SPDX-License-Identifier: LicenseRef-LICENCE.ibt_firmware
