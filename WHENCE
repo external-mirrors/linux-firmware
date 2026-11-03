@@ -11346,6 +11346,9 @@ File: dell/ish/ish_ptl_39ceeaf8_581.7779.0.bin
 File: dell/ish/ish_ptl_39ceeaf8_581.7783.0.bin
 Link: intel/ish/ish_ptl_39ceeaf8.bin -> ../../dell/ish/ish_ptl_39ceeaf8_581.7783.0.bin
 
+File: dell/ish/ish_nvlh_39ceeaf8_582.7822.0.bin
+Link: intel/ish/ish_nvlh_39ceeaf8.bin -> ../../dell/ish/ish_nvlh_39ceeaf8_582.7822.0.bin
+
 License: Redistributable. See LICENSE.dell for details
 SPDX-License-Identifier: LicenseRef-LICENSE.dell
 
