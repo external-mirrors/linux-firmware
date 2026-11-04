@@ -3809,6 +3809,9 @@ Version: 1.0.0
 File: realtek/rt1320/rt1321-patch-code-va.bin
 Version: 1.10.0
 
+File: realtek/rt1320/rt1321-patch-code-va2.bin
+Version: 2.1.0
+
 Licence: Redistributable. See LICENSE.rt1320 for details.
 SPDX-License-Identifier: LicenseRef-LICENSE.rt1320
 
