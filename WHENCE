@@ -5111,6 +5111,53 @@ SPDX-License-Identifier: LicenseRef-LICENSE.QualcommAtheros_ath10k
 
 --------------------------------------------------------------------------
 
+Driver: btusb - Bluetooth USB driver for Qualcomm controllers
+
+File: qca/QCC2072/peripatch_usb_00220100.bin
+Version: BTFW.COLOGNE.1.0.0-00054-PATCHZ-1
+File: qca/QCC2072/perinvm_usb_00220100.bin
+File: qca/QCC2072/perinvm_usb_00220100_0002.bin
+File: qca/QCC2072/perinvm_usb_00220100_0006.bin
+File: qca/QCC2072/perinvm_usb_00220100_0008.bin
+File: qca/QCC2072/perinvm_usb_00220100_000f.bin
+File: qca/QCC2072/perinvm_usb_00220100_0011.bin
+File: qca/QCC2072/perinvm_usb_00220100_0013.bin
+File: qca/QCC2072/perinvm_usb_00220100_001e.bin
+File: qca/QCC2072/perinvm_usb_00220100_001f.bin
+File: qca/QCC2072/perinvm_usb_00220100_0021.bin
+File: qca/QCC2072/perinvm_usb_00220100_0022.bin
+File: qca/QCC2072/perinvm_usb_00220100_0201.bin
+File: qca/QCC2072/perinvm_usb_00220100_0601.bin
+File: qca/QCC2072/perinvm_usb_00220100_0604.bin
+File: qca/QCC2072/perinvm_usb_00220100_0605.bin
+File: qca/QCC2072/perinvm_usb_00220100_0606.bin
+
+File: qca/QCC2072/rampatch_usb_00200101.bin
+Version: BTFW.ORNE.1.1.0.c1-00037-PATCHZ-1
+File: qca/QCC2072/nvm_usb_00200101.bin
+File: qca/QCC2072/nvm_usb_00200101_0002.bin
+File: qca/QCC2072/nvm_usb_00200101_0006.bin
+File: qca/QCC2072/nvm_usb_00200101_0008.bin
+File: qca/QCC2072/nvm_usb_00200101_000f.bin
+File: qca/QCC2072/nvm_usb_00200101_0011.bin
+File: qca/QCC2072/nvm_usb_00200101_0013.bin
+File: qca/QCC2072/nvm_usb_00200101_001a.bin
+File: qca/QCC2072/nvm_usb_00200101_001c.bin
+File: qca/QCC2072/nvm_usb_00200101_001e.bin
+File: qca/QCC2072/nvm_usb_00200101_001f.bin
+File: qca/QCC2072/nvm_usb_00200101_0021.bin
+File: qca/QCC2072/nvm_usb_00200101_0022.bin
+File: qca/QCC2072/nvm_usb_00200101_0201.bin
+File: qca/QCC2072/nvm_usb_00200101_0601.bin
+File: qca/QCC2072/nvm_usb_00200101_0604.bin
+File: qca/QCC2072/nvm_usb_00200101_0605.bin
+File: qca/QCC2072/nvm_usb_00200101_0606.bin
+
+Licence: Redistributable. See LICENSE.qcom and NOTICE.qca for details
+SPDX-License-Identifier: LicenseRef-LICENSE.qcom
+
+--------------------------------------------------------------------------
+
 Driver: btqca - Qualcomm Atheros Bluetooth support for QCA61x4 serial chips
 
 File: qca/rampatch_00130300.bin
