@@ -10458,17 +10458,22 @@ Link: sdca/1fa/1028/edc/3.bin -> ../../cs42l45_primer3.bin
 Link: sdca/1fa/1028/edc/4.bin -> ../../cs42l45_primer4.bin
 Link: sdca/1fa/1028/edc/42450005.bin -> ../cs42l45_v20260930.bin
 
-File: sdca/1fa/1028/cs42l49_v20260921.bin
+File: sdca/1fa/1028/cs42l49_v20261104.bin
 Link: sdca/1fa/1028/f01/1.bin -> ../../cs42l45_primer1.bin
 Link: sdca/1fa/1028/f01/2.bin -> ../../cs42l45_primer2.bin
 Link: sdca/1fa/1028/f01/3.bin -> ../../cs42l45_primer3.bin
 Link: sdca/1fa/1028/f01/4.bin -> ../../cs42l45_primer4.bin
-Link: sdca/1fa/1028/f01/42450005.bin -> ../cs42l49_v20260921.bin
+Link: sdca/1fa/1028/f01/42450005.bin -> ../cs42l49_v20261104.bin
 Link: sdca/1fa/1028/f04/1.bin -> ../../cs42l45_primer1.bin
 Link: sdca/1fa/1028/f04/2.bin -> ../../cs42l45_primer2.bin
 Link: sdca/1fa/1028/f04/3.bin -> ../../cs42l45_primer3.bin
 Link: sdca/1fa/1028/f04/4.bin -> ../../cs42l45_primer4.bin
-Link: sdca/1fa/1028/f04/42450005.bin -> ../cs42l49_v20260921.bin
+Link: sdca/1fa/1028/f04/42450005.bin -> ../cs42l49_v20261104.bin
+Link: sdca/1fa/1028/f05/1.bin -> ../../cs42l45_primer1.bin
+Link: sdca/1fa/1028/f05/2.bin -> ../../cs42l45_primer2.bin
+Link: sdca/1fa/1028/f05/3.bin -> ../../cs42l45_primer3.bin
+Link: sdca/1fa/1028/f05/4.bin -> ../../cs42l45_primer4.bin
+Link: sdca/1fa/1028/f05/42450005.bin -> ../cs42l49_v20261104.bin
 
 File: sdca/1fa/1028/cs42l45_v20261022.bin
 Link: sdca/1fa/1028/ef1/1.bin -> ../../cs42l45_primer1.bin
