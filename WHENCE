@@ -1352,7 +1352,7 @@ Version: 101.6e695a70.0
 
 File: intel/iwlwifi/iwlwifi-sc-a0-wh-b0-c102.ucode
 Link: iwlwifi-sc-a0-wh-b0-c102.ucode -> intel/iwlwifi/iwlwifi-sc-a0-wh-b0-c102.ucode
-Version: 102.07fca168.0
+Version: 102.651bbed6.0
 
 File: intel/iwlwifi/iwlwifi-sc-a0-gf-a0-100.ucode
 Link: iwlwifi-sc-a0-gf-a0-100.ucode -> intel/iwlwifi/iwlwifi-sc-a0-gf-a0-100.ucode
@@ -1398,8 +1398,16 @@ File: intel/iwlwifi/iwlwifi-bz-b0-wh-b0-c107.ucode
 Link: iwlwifi-bz-b0-wh-b0-c107.ucode -> intel/iwlwifi/iwlwifi-bz-b0-wh-b0-c107.ucode
 Version: 107.1b444747.0
 
+File: intel/iwlwifi/iwlwifi-sc2-a0-wh-b0-c107.ucode
+Link: iwlwifi-sc2-a0-wh-b0-c107.ucode -> intel/iwlwifi/iwlwifi-sc2-a0-wh-b0-c107.ucode
+Version: 107.b9e887a2.0
+
 File: intel/iwlwifi/iwlwifi-bz-b0-wh-b0-c108.ucode
 Link: iwlwifi-bz-b0-wh-b0-c108.ucode -> intel/iwlwifi/iwlwifi-bz-b0-wh-b0-c108.ucode
+Version: 108.45105872.0
+
+File: intel/iwlwifi/iwlwifi-sc2-a0-wh-b0-c108.ucode
+Link: iwlwifi-sc2-a0-wh-b0-c108.ucode -> intel/iwlwifi/iwlwifi-sc2-a0-wh-b0-c108.ucode
 Version: 108.45105872.0
 
 Licence: Redistributable. See LICENCE.iwlwifi_firmware for details
