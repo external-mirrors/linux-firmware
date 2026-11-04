@@ -1398,6 +1398,10 @@ File: intel/iwlwifi/iwlwifi-bz-b0-wh-b0-c107.ucode
 Link: iwlwifi-bz-b0-wh-b0-c107.ucode -> intel/iwlwifi/iwlwifi-bz-b0-wh-b0-c107.ucode
 Version: 107.1b444747.0
 
+File: intel/iwlwifi/iwlwifi-sc2-a0-wh-b0-c107.ucode
+Link: iwlwifi-sc2-a0-wh-b0-c107.ucode -> intel/iwlwifi/iwlwifi-sc2-a0-wh-b0-c107.ucode
+Version: 107.b9e887a2.0
+
 File: intel/iwlwifi/iwlwifi-bz-b0-wh-b0-c108.ucode
 Link: iwlwifi-bz-b0-wh-b0-c108.ucode -> intel/iwlwifi/iwlwifi-bz-b0-wh-b0-c108.ucode
 Version: 108.45105872.0
