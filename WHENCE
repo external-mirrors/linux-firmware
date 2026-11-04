@@ -5054,8 +5054,8 @@ Driver: btqca - Qualcomm Atheros Bluetooth support for QCA61x4 USB chips
 File: qca/rampatch_usb_00000200.bin
 File: qca/nvm_usb_00000200.bin
 
-File: qca/rampatch_usb_00000201.bin
-File: qca/nvm_usb_00000201.bin
+Link: qca/rampatch_usb_00000201.bin -> rampatch_usb_00000200.bin
+Link: qca/nvm_usb_00000201.bin -> nvm_usb_00000200.bin
 
 File: qca/rampatch_usb_00000300.bin
 Version: BTFM.RM.2.2.c3-00031-QCABTFMSWP-1
