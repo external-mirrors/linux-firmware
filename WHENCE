@@ -6388,7 +6388,7 @@ File: mediatek/mt8195/scp.img
 Version: v2.0.21961
 File: mediatek/mt8188/scp_c0.img
 Link: mediatek/mt8188/scp.img -> scp_c0.img
-Version: v2.0.27748
+Version: v2.0.30090
 File: mediatek/mt8189/scp.img
 Version: v1.0.0
 
