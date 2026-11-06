@@ -2998,6 +2998,9 @@ Link: amd/sof-tplg/sof-acp7f-mic-l1-id4.tplg -> acp7f/v1.0/sof-acp7f-mic-l1-id4.
 File: amd/sof-tplg/acp7f/v1.0/sof-acp7f-rt722-l0.tplg
 Version: 1.0
 Link: amd/sof-tplg/sof-acp7f-rt722-l0.tplg -> acp7f/v1.0/sof-acp7f-rt722-l0.tplg
+File: amd/sof-tplg/acp7f/v1.0/sof-acp7f-rt721-l0.tplg
+Version: 1.0
+Link: amd/sof-tplg/sof-acp7f-rt721-l0.tplg -> acp7f/v1.0/sof-acp7f-rt721-l0.tplg
 File: amd/sof-tplg/acp7f/v1.0/sof-acp7f-cs42l45-l0u0-cs35l63x2-l1u13.tplg
 Version: 1.0
 Link: amd/sof-tplg/sof-acp7f-cs42l45-l0u0-cs35l63x2-l1u13.tplg -> acp7f/v1.0/sof-acp7f-cs42l45-l0u0-cs35l63x2-l1u13.tplg
