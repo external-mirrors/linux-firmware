@@ -2965,6 +2965,23 @@ SPDX-License-Identifier: LicenseRef-LICENSE.amd_pmf
 
 --------------------------------------------------------------------------
 
+Driver: amd-sof - AMD ACP 7.F Sound Open Firmware
+
+File: amd/sof/acp7f/v1.0/sof-acp7f-code.bin
+Version: 1.0
+Link: amd/sof/sof-acp7f-code.bin -> acp7f/v1.0/sof-acp7f-code.bin
+File: amd/sof/acp7f/v1.0/sof-acp7f-data.bin
+Version: 1.0
+Link: amd/sof/sof-acp7f-data.bin -> acp7f/v1.0/sof-acp7f-data.bin
+File: amd/sof/acp7f/v1.0/sof-acp7f-code_l.bin
+Version: 1.0
+Link: amd/sof/sof-acp7f-code_l.bin -> acp7f/v1.0/sof-acp7f-code_l.bin
+
+Licence: Redistributable. See LICENSE.amdsof for details.
+SPDX-License-Identifier: LicenseRef-LICENSE.amdsof
+
+--------------------------------------------------------------------------
+
 Driver: s2255drv
 
 File: f2255usb.bin
