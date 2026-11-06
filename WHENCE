@@ -2965,6 +2965,48 @@ SPDX-License-Identifier: LicenseRef-LICENSE.amd_pmf
 
 --------------------------------------------------------------------------
 
+Driver: amd-sof - AMD ACP 7.F Sound Open Firmware
+
+File: amd/sof/acp7f/v1.0/sof-acp7f-code.bin
+Version: 1.0
+Link: amd/sof/sof-acp7f-code.bin -> acp7f/v1.0/sof-acp7f-code.bin
+File: amd/sof/acp7f/v1.0/sof-acp7f-data.bin
+Version: 1.0
+Link: amd/sof/sof-acp7f-data.bin -> acp7f/v1.0/sof-acp7f-data.bin
+File: amd/sof/acp7f/v1.0/sof-acp7f-code_l.bin
+Version: 1.0
+Link: amd/sof/sof-acp7f-code_l.bin -> acp7f/v1.0/sof-acp7f-code_l.bin
+
+File: amd/sof-tplg/acp7f/v1.0/sof-acp7f-1amp-l0-id2.tplg
+Version: 1.0
+Link: amd/sof-tplg/sof-acp7f-1amp-l0-id2.tplg -> acp7f/v1.0/sof-acp7f-1amp-l0-id2.tplg
+File: amd/sof-tplg/acp7f/v1.0/sof-acp7f-1amp-l1-id2.tplg
+Version: 1.0
+Link: amd/sof-tplg/sof-acp7f-1amp-l1-id2.tplg -> acp7f/v1.0/sof-acp7f-1amp-l1-id2.tplg
+File: amd/sof-tplg/acp7f/v1.0/sof-acp7f-jack-l0-id0.tplg
+Version: 1.0
+Link: amd/sof-tplg/sof-acp7f-jack-l0-id0.tplg -> acp7f/v1.0/sof-acp7f-jack-l0-id0.tplg
+File: amd/sof-tplg/acp7f/v1.0/sof-acp7f-jack-l1-id0.tplg
+Version: 1.0
+Link: amd/sof-tplg/sof-acp7f-jack-l1-id0.tplg -> acp7f/v1.0/sof-acp7f-jack-l1-id0.tplg
+File: amd/sof-tplg/acp7f/v1.0/sof-acp7f-mic-l0-id4.tplg
+Version: 1.0
+Link: amd/sof-tplg/sof-acp7f-mic-l0-id4.tplg -> acp7f/v1.0/sof-acp7f-mic-l0-id4.tplg
+File: amd/sof-tplg/acp7f/v1.0/sof-acp7f-mic-l1-id4.tplg
+Version: 1.0
+Link: amd/sof-tplg/sof-acp7f-mic-l1-id4.tplg -> acp7f/v1.0/sof-acp7f-mic-l1-id4.tplg
+File: amd/sof-tplg/acp7f/v1.0/sof-acp7f-rt722-l0.tplg
+Version: 1.0
+Link: amd/sof-tplg/sof-acp7f-rt722-l0.tplg -> acp7f/v1.0/sof-acp7f-rt722-l0.tplg
+File: amd/sof-tplg/acp7f/v1.0/sof-acp7f-cs42l45-l0u0-cs35l63x2-l1u13.tplg
+Version: 1.0
+Link: amd/sof-tplg/sof-acp7f-cs42l45-l0u0-cs35l63x2-l1u13.tplg -> acp7f/v1.0/sof-acp7f-cs42l45-l0u0-cs35l63x2-l1u13.tplg
+
+Licence: Redistributable. See LICENSE.amdsof for details.
+SPDX-License-Identifier: LicenseRef-LICENSE.amdsof
+
+--------------------------------------------------------------------------
+
 Driver: s2255drv
 
 File: f2255usb.bin
