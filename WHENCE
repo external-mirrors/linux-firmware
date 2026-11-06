@@ -7637,7 +7637,7 @@ File: qcom/shikra/lpaicp_dtb.mbn
 Version: LPAICP.FW.1.2-00173.1-SHIKRA_LPAICP_PACK-1s
 RawFile: qcom/shikra/lpaicpr.jsn
 File: qcom/shikra/cqs/qdsp6sw.mbn
-Version: MPSS.JO.4.0-00272-SHIKRA_LWG_PACK-2
+Version: MPSS.JO.4.0-00273-SHIKRA_LWG_PACK-1
 
 Licence: Redistributable. See LICENSE.qcom-2 and NOTICE.qcom for details
 SPDX-License-Identifier: LicenseRef-LICENSE.qcom-2
