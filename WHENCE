@@ -9007,6 +9007,7 @@ File: cirrus/cs35l56/CS35L56_Rev4.7.17.wmfw
 File: cirrus/cs35l63/CS35L63_Rev2.5.4.wmfw
 File: cirrus/cs35l63/CS35L63_Rev2.5.7.wmfw
 File: cirrus/cs35l63/CS35L63_Rev2.5.11.wmfw
+File: cirrus/cs35l63/CS35L63_Rev2.6.6.wmfw
 Link: cirrus/cs35l56-b0-dsp1-misc-10280c62-spkid0.wmfw -> cs35l56/CS35L56_Rev3.11.11.wmfw
 File: cirrus/cs35l56-b0-dsp1-misc-10280c62-spkid0-amp1.bin
 File: cirrus/cs35l56-b0-dsp1-misc-10280c62-spkid0-amp2.bin
@@ -10075,6 +10076,12 @@ File: cirrus/cs35l57-b2-dsp1-misc-17aa235c-l2u4.bin
 Link: cirrus/cs35l57-b2-dsp1-misc-17aa235d.wmfw -> cs35l56/CS35L56_Rev4.7.2.wmfw
 File: cirrus/cs35l57-b2-dsp1-misc-17aa235d-l2u0.bin
 File: cirrus/cs35l57-b2-dsp1-misc-17aa235d-l2u4.bin
+Link: cirrus/cs35l63-a1-dsp1-misc-17aa2369.wmfw -> cs35l63/CS35L63_Rev2.6.6.wmfw
+File: cirrus/cs35l63-a1-dsp1-misc-17aa2369-l2u0.bin
+File: cirrus/cs35l63-a1-dsp1-misc-17aa2369-l2u1.bin
+Link: cirrus/cs35l63-a1-dsp1-misc-17aa236a.wmfw -> cs35l63/CS35L63_Rev2.6.6.wmfw
+File: cirrus/cs35l63-a1-dsp1-misc-17aa236a-l2u0.bin
+File: cirrus/cs35l63-a1-dsp1-misc-17aa236a-l2u1.bin
 Link: cirrus/cs35l56-b0-dsp1-misc-17aa3806-spkid0.wmfw -> cs35l56/CS35L56_Rev3.13.3.wmfw
 File: cirrus/cs35l56-b0-dsp1-misc-17aa3806-spkid0-l0u0.bin
 File: cirrus/cs35l56-b0-dsp1-misc-17aa3806-spkid0-l0u1.bin
@@ -10534,6 +10541,18 @@ Link: sdca/1fa/17aa/5159/2.bin -> ../../cs42l45_primer2.bin
 Link: sdca/1fa/17aa/5159/3.bin -> ../../cs42l45_primer3.bin
 Link: sdca/1fa/17aa/5159/4.bin -> ../../cs42l45_primer4.bin
 Link: sdca/1fa/17aa/5159/42450005.bin -> ../cs42l45_v20260522.bin
+
+File: sdca/1fa/17aa/cs42l45_v20261007.bin
+Link: sdca/1fa/17aa/2369/1.bin -> ../../cs42l45_primer1.bin
+Link: sdca/1fa/17aa/2369/2.bin -> ../../cs42l45_primer2.bin
+Link: sdca/1fa/17aa/2369/3.bin -> ../../cs42l45_primer3.bin
+Link: sdca/1fa/17aa/2369/4.bin -> ../../cs42l45_primer4.bin
+Link: sdca/1fa/17aa/2369/42450005.bin -> ../cs42l45_v20261007.bin
+Link: sdca/1fa/17aa/236a/1.bin -> ../../cs42l45_primer1.bin
+Link: sdca/1fa/17aa/236a/2.bin -> ../../cs42l45_primer2.bin
+Link: sdca/1fa/17aa/236a/3.bin -> ../../cs42l45_primer3.bin
+Link: sdca/1fa/17aa/236a/4.bin -> ../../cs42l45_primer4.bin
+Link: sdca/1fa/17aa/236a/42450005.bin -> ../cs42l45_v20261007.bin
 
 File: sdca/1fa/144d/cs42l45_v20260820.bin
 Link: sdca/1fa/144d/c1dc/1.bin -> ../../cs42l45_primer1.bin
