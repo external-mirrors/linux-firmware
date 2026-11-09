@@ -5913,6 +5913,13 @@ Version: GuC API/APB ver 70.83.0 for Novalake S
 File: xe/nvl_gsc_1.bin
 Version: GSC API v1.0, release 108.0.0.1211, SVN 1 for Novalake
 
+File: xe/cri_guc_70.bin
+Version: GuC API/APB ver 70.83.0 for Crescentisland
+
+File: xe/nvlpg_guc_70.bin
+File: xe/nvlpm_guc_70.bin
+Version: GuC API/APB ver 70.83.0 for Novalake P
+
 License: Redistributable. See LICENSE.xe for details
 SPDX-License-Identifier: LicenseRef-LICENSE.xe
 --------------------------------------------------------------------------
