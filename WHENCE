@@ -5138,22 +5138,22 @@ File: qca/rampatch_usb_00130200.bin
 Version: BTFW.HSP.2.0.0-00609-USB_PATCHZ-1
 File: qca/nvm_usb_00130200.bin
 File: qca/nvm_usb_00130200_0104.bin
-File: qca/nvm_usb_00130200_0105.bin
-File: qca/nvm_usb_00130200_0106.bin
 File: qca/nvm_usb_00130200_0107.bin
-File: qca/nvm_usb_00130200_0109.bin
-File: qca/nvm_usb_00130200_0110.bin
+Link: qca/nvm_usb_00130200_0105.bin -> nvm_usb_00130200_0104.bin
+Link: qca/nvm_usb_00130200_0106.bin -> nvm_usb_00130200.bin
+Link: qca/nvm_usb_00130200_0109.bin -> nvm_usb_00130200.bin
+Link: qca/nvm_usb_00130200_0110.bin -> nvm_usb_00130200_0104.bin
 
 File: qca/rampatch_usb_00130201.bin
 Version: BTFW.HSP.2.1.0-00669-USB_UART_PATCHZ-1
 File: qca/nvm_usb_00130201.bin
-File: qca/nvm_usb_00130201_010a.bin
-File: qca/nvm_usb_00130201_010b.bin
-File: qca/nvm_usb_00130201_0303.bin
 File: qca/nvm_usb_00130201_gf.bin
-File: qca/nvm_usb_00130201_gf_010a.bin
-File: qca/nvm_usb_00130201_gf_010b.bin
-File: qca/nvm_usb_00130201_gf_0303.bin
+Link: qca/nvm_usb_00130201_010a.bin -> nvm_usb_00130201.bin
+Link: qca/nvm_usb_00130201_010b.bin -> nvm_usb_00130201.bin
+Link: qca/nvm_usb_00130201_0303.bin -> nvm_usb_00130201.bin
+Link: qca/nvm_usb_00130201_gf_010a.bin -> nvm_usb_00130201_gf.bin
+Link: qca/nvm_usb_00130201_gf_010b.bin -> nvm_usb_00130201_gf.bin
+Link: qca/nvm_usb_00130201_gf_0303.bin -> nvm_usb_00130201_gf.bin
 
 File: qca/QCA2066/rampatch_usb_00130201.bin
 Version: BTFW.HSP.2.1.0-00680-VER_PATCHZ-2
@@ -5164,15 +5164,15 @@ File: qca/rampatch_usb_00190200.bin
 Version: BTFW.HAMILTON.2.0.0-00799-USB_PATCHZ-5
 File: qca/nvm_usb_00190200.bin
 File: qca/nvm_usb_00190200_0104.bin
-File: qca/nvm_usb_00190200_0106.bin
 File: qca/nvm_usb_00190200_0108.bin
-File: qca/nvm_usb_00190200_0109.bin
-File: qca/nvm_usb_00190200_010a.bin
-File: qca/nvm_usb_00190200_010c.bin
-File: qca/nvm_usb_00190200_010e.bin
-File: qca/nvm_usb_00190200_0110.bin
 File: qca/nvm_usb_00190200_0111.bin
-File: qca/nvm_usb_00190200_0112.bin
+Link: qca/nvm_usb_00190200_0106.bin -> nvm_usb_00190200_0104.bin
+Link: qca/nvm_usb_00190200_0109.bin -> nvm_usb_00190200_0104.bin
+Link: qca/nvm_usb_00190200_010a.bin -> nvm_usb_00190200_0104.bin
+Link: qca/nvm_usb_00190200_010c.bin -> nvm_usb_00190200_0104.bin
+Link: qca/nvm_usb_00190200_010e.bin -> nvm_usb_00190200.bin
+Link: qca/nvm_usb_00190200_0110.bin -> nvm_usb_00190200.bin
+Link: qca/nvm_usb_00190200_0112.bin -> nvm_usb_00190200.bin
 
 Licence: Redistributable. See LICENSE.QualcommAtheros_ath10k and NOTICE.qca for details
 SPDX-License-Identifier: LicenseRef-LICENSE.QualcommAtheros_ath10k
@@ -5184,42 +5184,42 @@ Driver: btusb - Bluetooth USB driver for Qualcomm controllers
 File: qca/QCC2072/peripatch_usb_00220100.bin
 Version: BTFW.COLOGNE.1.0.0-00054-PATCHZ-1
 File: qca/QCC2072/perinvm_usb_00220100.bin
-File: qca/QCC2072/perinvm_usb_00220100_0002.bin
-File: qca/QCC2072/perinvm_usb_00220100_0006.bin
-File: qca/QCC2072/perinvm_usb_00220100_0008.bin
-File: qca/QCC2072/perinvm_usb_00220100_000f.bin
-File: qca/QCC2072/perinvm_usb_00220100_0011.bin
-File: qca/QCC2072/perinvm_usb_00220100_0013.bin
-File: qca/QCC2072/perinvm_usb_00220100_001e.bin
-File: qca/QCC2072/perinvm_usb_00220100_001f.bin
-File: qca/QCC2072/perinvm_usb_00220100_0021.bin
-File: qca/QCC2072/perinvm_usb_00220100_0022.bin
-File: qca/QCC2072/perinvm_usb_00220100_0201.bin
-File: qca/QCC2072/perinvm_usb_00220100_0601.bin
-File: qca/QCC2072/perinvm_usb_00220100_0604.bin
-File: qca/QCC2072/perinvm_usb_00220100_0605.bin
-File: qca/QCC2072/perinvm_usb_00220100_0606.bin
+Link: qca/QCC2072/perinvm_usb_00220100_0002.bin -> perinvm_usb_00220100.bin
+Link: qca/QCC2072/perinvm_usb_00220100_0006.bin -> perinvm_usb_00220100.bin
+Link: qca/QCC2072/perinvm_usb_00220100_0008.bin -> perinvm_usb_00220100.bin
+Link: qca/QCC2072/perinvm_usb_00220100_000f.bin -> perinvm_usb_00220100.bin
+Link: qca/QCC2072/perinvm_usb_00220100_0011.bin -> perinvm_usb_00220100.bin
+Link: qca/QCC2072/perinvm_usb_00220100_0013.bin -> perinvm_usb_00220100.bin
+Link: qca/QCC2072/perinvm_usb_00220100_001e.bin -> perinvm_usb_00220100.bin
+Link: qca/QCC2072/perinvm_usb_00220100_001f.bin -> perinvm_usb_00220100.bin
+Link: qca/QCC2072/perinvm_usb_00220100_0021.bin -> perinvm_usb_00220100.bin
+Link: qca/QCC2072/perinvm_usb_00220100_0022.bin -> perinvm_usb_00220100.bin
+Link: qca/QCC2072/perinvm_usb_00220100_0201.bin -> perinvm_usb_00220100.bin
+Link: qca/QCC2072/perinvm_usb_00220100_0601.bin -> perinvm_usb_00220100.bin
+Link: qca/QCC2072/perinvm_usb_00220100_0604.bin -> perinvm_usb_00220100.bin
+Link: qca/QCC2072/perinvm_usb_00220100_0605.bin -> perinvm_usb_00220100.bin
+Link: qca/QCC2072/perinvm_usb_00220100_0606.bin -> perinvm_usb_00220100.bin
 
 File: qca/QCC2072/rampatch_usb_00200101.bin
 Version: BTFW.ORNE.1.1.0.c1-00037-PATCHZ-1
 File: qca/QCC2072/nvm_usb_00200101.bin
-File: qca/QCC2072/nvm_usb_00200101_0002.bin
-File: qca/QCC2072/nvm_usb_00200101_0006.bin
-File: qca/QCC2072/nvm_usb_00200101_0008.bin
-File: qca/QCC2072/nvm_usb_00200101_000f.bin
-File: qca/QCC2072/nvm_usb_00200101_0011.bin
-File: qca/QCC2072/nvm_usb_00200101_0013.bin
-File: qca/QCC2072/nvm_usb_00200101_001a.bin
-File: qca/QCC2072/nvm_usb_00200101_001c.bin
-File: qca/QCC2072/nvm_usb_00200101_001e.bin
-File: qca/QCC2072/nvm_usb_00200101_001f.bin
 File: qca/QCC2072/nvm_usb_00200101_0021.bin
 File: qca/QCC2072/nvm_usb_00200101_0022.bin
-File: qca/QCC2072/nvm_usb_00200101_0201.bin
-File: qca/QCC2072/nvm_usb_00200101_0601.bin
-File: qca/QCC2072/nvm_usb_00200101_0604.bin
-File: qca/QCC2072/nvm_usb_00200101_0605.bin
-File: qca/QCC2072/nvm_usb_00200101_0606.bin
+Link: qca/QCC2072/nvm_usb_00200101_0002.bin -> nvm_usb_00200101.bin
+Link: qca/QCC2072/nvm_usb_00200101_0006.bin -> nvm_usb_00200101.bin
+Link: qca/QCC2072/nvm_usb_00200101_0008.bin -> nvm_usb_00200101.bin
+Link: qca/QCC2072/nvm_usb_00200101_000f.bin -> nvm_usb_00200101.bin
+Link: qca/QCC2072/nvm_usb_00200101_0011.bin -> nvm_usb_00200101.bin
+Link: qca/QCC2072/nvm_usb_00200101_0013.bin -> nvm_usb_00200101.bin
+Link: qca/QCC2072/nvm_usb_00200101_001a.bin -> nvm_usb_00200101.bin
+Link: qca/QCC2072/nvm_usb_00200101_001c.bin -> nvm_usb_00200101.bin
+Link: qca/QCC2072/nvm_usb_00200101_001e.bin -> nvm_usb_00200101.bin
+Link: qca/QCC2072/nvm_usb_00200101_001f.bin -> nvm_usb_00200101.bin
+Link: qca/QCC2072/nvm_usb_00200101_0201.bin -> nvm_usb_00200101.bin
+Link: qca/QCC2072/nvm_usb_00200101_0601.bin -> nvm_usb_00200101.bin
+Link: qca/QCC2072/nvm_usb_00200101_0604.bin -> nvm_usb_00200101_0021.bin
+Link: qca/QCC2072/nvm_usb_00200101_0605.bin -> nvm_usb_00200101_0021.bin
+Link: qca/QCC2072/nvm_usb_00200101_0606.bin -> nvm_usb_00200101_0022.bin
 
 Licence: Redistributable. See LICENSE.qcom and NOTICE.qca for details
 SPDX-License-Identifier: LicenseRef-LICENSE.qcom
