@@ -7620,6 +7620,9 @@ File: qcom/nord/cdsp.mbn
 File: qcom/nord/cdsp_dtb.mbn
 Version: NSP.AT.1.0-00579-NORD-1
 RawFile: qcom/nord/cdspr.jsn
+File: qcom/nord/soccp.mbn
+Version: SOCCP.FW.2.2-00009.4-NORD_SOCCP_PACK-1
+RawFile: qcom/nord/soccpr.jsn
 
 # qcom/sm8750
 File: qcom/sm8750/adsp.mbn
