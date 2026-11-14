@@ -11819,10 +11819,20 @@ SPDX-License-Identifier: LicenseRef-LICENSE.aic
 
 --------------------------------------------------------------------------
 
-Driver: aic - AIC8800D80 U02 SDIO Wi-Fi support
+Driver: aic - AIC8800D80 U02 and AIC8800D80N U02/U02C SDIO Wi-Fi support
 
 File: aic/aic8800d80/fmacfw_8800d80_u02.bin
 Version: v6.9.1.1
+File: aic/aic8800d80/aic_userconfig_8800d80.txt
+File: aic/aic8800d80n/aic_userconfig_8800d80n.txt
+File: aic/aic8800d80n/fmacfw_calib_8800d80n_u02.bin
+File: aic/aic8800d80n/fmacfw_cinit_8800d80n_u02.bin
+File: aic/aic8800d80n/fmacfw_patch_8800d80n_u02.bin
+File: aic/aic8800d80n/fmacfw_patch_tbl_8800d80n_u02.bin
+File: aic/aic8800d80n/fmacfw_calib_8800d80n_u02c.bin
+File: aic/aic8800d80n/fmacfw_cinit_8800d80n_u02c.bin
+File: aic/aic8800d80n/fmacfw_patch_8800d80n_u02c.bin
+File: aic/aic8800d80n/fmacfw_patch_tbl_8800d80n_u02c.bin
 
 Licence: Redistributable. See LICENSE.aic for details.
 SPDX-License-Identifier: LicenseRef-LICENSE.aic
