@@ -10920,6 +10920,7 @@ Link: qcom/glymur/Lenovo-ThinkPad-T14s-Gen-7-tplg.bin -> LENOVO/22A8/Lenovo-Thin
 File: qcom/hawi/HAWI-MTP-tplg.bin
 File: qcom/kaanapali/Kaanapali-MTP-tplg.bin
 File: qcom/maili/MAILI-MTP-tplg.bin
+File: qcom/molokai/Motorola-Vantage-tplg.bin
 File: qcom/nord/NORD-RIDE-tplg.bin
 File: qcom/nord/NORD-RRD-tplg.bin
 File: qcom/qcm6490/QCM6490-IDP-tplg.bin
@@ -10933,9 +10934,12 @@ File: qcom/qcs6490/QCS6490-RB3Gen2-tplg.bin
 File: qcom/qcs8300/MONACO-EVK-tplg.bin
 File: qcom/qcs8300/arduino-monza-tplg.bin
 Link: qcom/qcs9100/LEMANS-EVK-tplg.bin -> ../sa8775p/LEMANS-EVK-tplg.bin
+File: qcom/sa8775p/LEMANS-AXON-PRO-tplg.bin
 File: qcom/sa8775p/LEMANS-EVK-tplg.bin
 File: qcom/sc8280xp/LENOVO/21BX/audioreach-tplg.bin
 Link: qcom/sc8280xp/SC8280XP-LENOVO-X13S-tplg.bin -> LENOVO/21BX/audioreach-tplg.bin
+File: qcom/sc8280xp/microsoft/blackrock/SC8280XP-MICROSOFT-BLACKROCK-tplg.bin
+Link: qcom/sc8280xp/SC8280XP-MICROSOFT-BLACKROCK-tplg.bin -> microsoft/blackrock/SC8280XP-MICROSOFT-BLACKROCK-tplg.bin
 File: qcom/sc8280xp/radxa/dragon-q8b/SC8280XP-Radxa-Dragon-Q8B-tplg.bin
 File: qcom/shikra/shikra-cqs-evk-tplg.bin
 File: qcom/shikra/shikra-iqs-evk-tplg.bin
@@ -10978,8 +10982,8 @@ File: qcom/x1e80100/hp/omnibook-x14/X1E80100-HP-OMNIBOOK-X14-tplg.bin
 Link: qcom/x1e80100/X1E80100-HP-OMNIBOOK-X14-tplg.bin -> hp/omnibook-x14/X1E80100-HP-OMNIBOOK-X14-tplg.bin
 File: qcom/x1e80100/X1P42100-Microsoft-Surface-Pro-12in-tplg.bin
 
-Version: v1.0.5
-Info: DATE=16.10.2026
+Version: v1.0.6
+Info: DATE=26.11.2026
 
 Licence: Redistributable. See LICENCE.linaro for details
 SPDX-License-Identifier: BSD-3-Clause
